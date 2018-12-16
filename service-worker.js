@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Sequence-Alignment-Tutorial/precache-manifest.06c1c50f397915210331a1d897a3019a.js"
+  "/Sequence-Alignment-Tutorial/precache-manifest.c9cd8c201c93c3a566459fd604d48ddf.js"
 );
 
 workbox.clientsClaim();

@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/Sequence-Alignment-Tutorial/static/js/runtime~main.623fe0a4.js"
   },
   {
-    "revision": "81683a013d11062d0128",
-    "url": "/Sequence-Alignment-Tutorial/static/js/main.81683a01.chunk.js"
+    "revision": "ab4fa1c9404667679177",
+    "url": "/Sequence-Alignment-Tutorial/static/js/main.ab4fa1c9.chunk.js"
   },
   {
-    "revision": "4a4bc17142e71d070a08",
-    "url": "/Sequence-Alignment-Tutorial/static/js/1.4a4bc171.chunk.js"
+    "revision": "0a1bf2f9935f067a091e",
+    "url": "/Sequence-Alignment-Tutorial/static/js/1.0a1bf2f9.chunk.js"
   },
   {
-    "revision": "81683a013d11062d0128",
+    "revision": "ab4fa1c9404667679177",
     "url": "/Sequence-Alignment-Tutorial/static/css/main.471b880f.chunk.css"
   },
   {
-    "revision": "09596dd36a4d3d27203bb943cb2e9e7a",
+    "revision": "27c46106d25fcc2e600e6f22cf783ff2",
     "url": "/Sequence-Alignment-Tutorial/index.html"
   }
 ];

@@ -1,9 +1,9 @@
 {
   "main.css": "/Sequence-Alignment-Tutorial/static/css/main.471b880f.chunk.css",
-  "main.js": "/Sequence-Alignment-Tutorial/static/js/main.81683a01.chunk.js",
-  "main.js.map": "/Sequence-Alignment-Tutorial/static/js/main.81683a01.chunk.js.map",
-  "static/js/1.4a4bc171.chunk.js": "/Sequence-Alignment-Tutorial/static/js/1.4a4bc171.chunk.js",
-  "static/js/1.4a4bc171.chunk.js.map": "/Sequence-Alignment-Tutorial/static/js/1.4a4bc171.chunk.js.map",
+  "main.js": "/Sequence-Alignment-Tutorial/static/js/main.ab4fa1c9.chunk.js",
+  "main.js.map": "/Sequence-Alignment-Tutorial/static/js/main.ab4fa1c9.chunk.js.map",
+  "static/js/1.0a1bf2f9.chunk.js": "/Sequence-Alignment-Tutorial/static/js/1.0a1bf2f9.chunk.js",
+  "static/js/1.0a1bf2f9.chunk.js.map": "/Sequence-Alignment-Tutorial/static/js/1.0a1bf2f9.chunk.js.map",
   "runtime~main.js": "/Sequence-Alignment-Tutorial/static/js/runtime~main.623fe0a4.js",
   "runtime~main.js.map": "/Sequence-Alignment-Tutorial/static/js/runtime~main.623fe0a4.js.map",
   "static/css/main.471b880f.chunk.css.map": "/Sequence-Alignment-Tutorial/static/css/main.471b880f.chunk.css.map",
@@ -11,6 +11,6 @@
   "static/media/Local.png": "/Sequence-Alignment-Tutorial/static/media/Local.360dfd5b.png",
   "static/media/Fitting.png": "/Sequence-Alignment-Tutorial/static/media/Fitting.edd622f2.png",
   "index.html": "/Sequence-Alignment-Tutorial/index.html",
-  "precache-manifest.06c1c50f397915210331a1d897a3019a.js": "/Sequence-Alignment-Tutorial/precache-manifest.06c1c50f397915210331a1d897a3019a.js",
+  "precache-manifest.c9cd8c201c93c3a566459fd604d48ddf.js": "/Sequence-Alignment-Tutorial/precache-manifest.c9cd8c201c93c3a566459fd604d48ddf.js",
   "service-worker.js": "/Sequence-Alignment-Tutorial/service-worker.js"
 }
